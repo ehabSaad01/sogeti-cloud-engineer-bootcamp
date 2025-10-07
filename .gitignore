@@ -1,0 +1,20 @@
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
+*.zip
+*.bak
+
+# Python / Node / Terraform
+__pycache__/
+*.pyc
+node_modules/
+.terraform/
+
+# Secrets (never commit)
+*.env
+secrets/
